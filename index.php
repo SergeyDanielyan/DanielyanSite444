@@ -6,26 +6,7 @@
         <link rel="icon" type="image" href="logo.jpg">
         <link rel="stylesheet" href="style.css">
     </head>
-    <!--
-    <header class="header">
-        <h1 class="title">Cinema</h1>
-    </header>
--->
     <body>
-        <!--
-        <div class="box">
-            
-            <form action="films.php">
-                <input type="submit" value="Фильмы">
-            </form>
-            <form action="actors.php">
-                <input type="submit" name="Актёры">
-            </form>
-            <form action="others.php">
-                <input type="submit" name="Иные">
-            </form>
-        </div>
-        -->
         <table width="100%" height="100%" align="center" cellspacing="0">
             <tr class="header">
                 <td width="25%"><p><a href="films.php" class="link">Фильмы</a><a href="actors.php" class="link">Актёры</a><a href="others.php" class="link">Иные</a></p></td>
