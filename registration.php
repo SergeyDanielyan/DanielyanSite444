@@ -61,7 +61,7 @@
                 <label class="form_label">Повторите пароль</label>
                 <input class="form_input" type="password" name="password2">
             </div>
-            <input class="form_button" type="submit" name="submit" value="Войти" placeholder=" ">
+            <input class="form_button" type="submit" name="submit" value="Зарегистрироваться" placeholder=" ">
             <?php
                 if (isset($_POST['submit']) && count($err) > 0) {
                     echo "<br>При регистрации произошли следующие ошибки:";
