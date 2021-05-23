@@ -1,0 +1,16 @@
+img {
+    width: 600px;
+}
+
+.ttitle {
+    font-size: 70px;
+    margin-top: 0px;
+}
+
+.image {
+    float: left;
+}
+
+.text {
+    margin-left: 650px;
+}
